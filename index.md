@@ -1,35 +1,20 @@
 ## 오유진 이력서
 
-안녕하세요. 
+안녕하세요, 오유진입니다.
 
 ### 소속
 
-이화여자대학교 
+- 이화여자대학교 경영대학 경영학과 주전공
+- 스크랜튼대학 디지털인문학트랙 복수전공
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 활동 이력
 
-- Bulleted
-- List
+- 2021 KB국민은행 Future AI Challenge Finalist (Top10)
+- 2022 1학기 경영대학 연구조교 (Python, R을 이용한 데이터분석)
+ 
+### 관심사
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yjodev/yjodev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 프론트엔드 개발
+- 인공지능
+- 금융
